@@ -1,4 +1,4 @@
-Vision Assist – Real-Time Object Sense
+Vision Assist – Real-Time Object Sense-
 Vision Assist is a Python-based Flask API that uses Google Gemini 1.5 Flash API to analyze the surrounding environment in real-time via your webcam. 
 It captures video frames, generates a description using Gemini AI, and speaks the result aloud using text-to-speech.
 
